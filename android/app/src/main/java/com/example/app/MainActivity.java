@@ -24,7 +24,7 @@ public class MainActivity extends BridgeActivity {
     private void checkAndRequestPermissions() {
         String[] permissions = {
                 Manifest.permission.CAMERA,
-                Manifest.permission.RECORD_AUDIO
+                Manifest.permission.RECORD_AUDIO/
         };
 
         List<String> permissionsNeeded = new ArrayList<>();
