@@ -55,4 +55,4 @@ public class MainActivity extends BridgeActivity {
             // All permissions were granted. Proceed with your functionality
         }
     }
-}
+};
